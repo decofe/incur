@@ -5,7 +5,7 @@ inputs:
   bun_version:
     description: 'Bun compiler version'
     required: false
-    default: '1.3.10'
+    default: '1.4.4'
   entry:
     description: 'TypeScript entrypoint in the caller repository'
     required: false
